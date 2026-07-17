@@ -1,0 +1,32 @@
+/*index */
+.main-h {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chicken-adobo {
+    text-align: center;
+    background-color: beige;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.pork-sinigang {
+    text-align: center;
+    background-color: bisque;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.menudo {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 16px;
+
+}
+
+/*chicken adobo */
